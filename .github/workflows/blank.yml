@@ -1,0 +1,39 @@
+@@ -1,17 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/BP_CoolBox.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/BluePrints/BP_CoolBox.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_CoolBox.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_Key.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/T1/3QU2B2U11RRUCOSA9AIZFN.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_door.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_Door.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_GreenKey.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_GreenDoor.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+
+@@ -21,10 +21,30 @@
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HM/U7ITZ3N6TOBMV5W2VZI3HR.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XC/Z28KRTCF6LZSFBASJ6QJ3H.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/31/LVGGGKY4EZ3CV2YTI6TGNO.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_D00r.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RG/O5E4KI1I5NOBIRLW0WRS9P.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_RedKey.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_BlueKey.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_BlueDoor.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/ThirdPerson/Maps/BluePrint/BP_RedDoor.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/PY/0DU9MCE5XAMD4CO1I7JRRN.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4D/UOKUGOZJ3QDD7QMMADN46K.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9Q/Q48ZLCJ8GWW3G3H0HZU0DX.uasset",
+				"C:/Users/RikuF/OneDrive/Documents/Unreal Projects/Coding1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/D7/EOOKCVYYSWOY7DV4TBTLF1.uasset",
